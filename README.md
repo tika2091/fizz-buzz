@@ -6,3 +6,5 @@
 #3 complex-condition.html - You are given conditions to make a decision what to print as a result
 
 #4 Nesting condition: You can nest if statement inside another if statement
+
+#5 Switch Statement: Switch is used to check too many cases.
